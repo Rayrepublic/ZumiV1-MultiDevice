@@ -39,8 +39,8 @@ handler.all = async function (m) {
 				//isForwarded: true, // ini biar ada tulisannya diteruskan berkali-kali, jika ingin di hilangkan ganti true menjadi false
 				externalAdReply: { // Bagian ini sesuka kalian berkreasi :'v
                     showAdAttribution: true,
-					title: "Clara - Multidevice",
-					body: "© Xyroine",
+					title: "Zumi-Md",
+					body: "© 2023 By Ray",
 					mediaUrl: sgc,
 					description: '',
 					previewType: "PHOTO",
@@ -51,7 +51,7 @@ handler.all = async function (m) {
 		}
 		global.fakeig = {
          contextInfo: { externalAdReply: { showAdAttribution: true,
-            title: 'Clara - MD',
+            title: 'zumi - MD',
             body: wm,
             thumbnailUrl: pp,
             sourceUrl: sig
