@@ -1,5 +1,5 @@
 {
-    "name": "Clara-MD",
+    "name": "Zumi-MD",
     "version": "1.1.2",
     "description": "Whatsapp Bot MD",
     "main": "index.js",
@@ -24,7 +24,7 @@
     ],
     "homepage": "https://github.com/Xyroinee/Clara-MD",
     "author": {
-        "name": "Xyroinee"
+        "name": "Ray"
     },
     "repository": {
         "type": "git",
